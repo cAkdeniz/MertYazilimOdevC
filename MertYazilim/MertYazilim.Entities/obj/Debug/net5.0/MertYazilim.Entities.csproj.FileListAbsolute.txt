@@ -1,0 +1,12 @@
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Entities\bin\Debug\net5.0\MertYazilim.Entities.deps.json
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Entities\bin\Debug\net5.0\MertYazilim.Entities.dll
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Entities\bin\Debug\net5.0\ref\MertYazilim.Entities.dll
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Entities\bin\Debug\net5.0\MertYazilim.Entities.pdb
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Entities\obj\Debug\net5.0\MertYazilim.Entities.csprojAssemblyReference.cache
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Entities\obj\Debug\net5.0\MertYazilim.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Entities\obj\Debug\net5.0\MertYazilim.Entities.AssemblyInfoInputs.cache
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Entities\obj\Debug\net5.0\MertYazilim.Entities.AssemblyInfo.cs
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Entities\obj\Debug\net5.0\MertYazilim.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Entities\obj\Debug\net5.0\MertYazilim.Entities.dll
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Entities\obj\Debug\net5.0\ref\MertYazilim.Entities.dll
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Entities\obj\Debug\net5.0\MertYazilim.Entities.pdb

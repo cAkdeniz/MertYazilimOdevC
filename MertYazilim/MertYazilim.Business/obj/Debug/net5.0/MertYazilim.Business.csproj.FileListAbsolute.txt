@@ -1,0 +1,17 @@
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Business\bin\Debug\net5.0\MertYazilim.Business.deps.json
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Business\bin\Debug\net5.0\MertYazilim.Business.dll
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Business\bin\Debug\net5.0\ref\MertYazilim.Business.dll
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Business\bin\Debug\net5.0\MertYazilim.Business.pdb
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Business\bin\Debug\net5.0\MertYazilim.DataAccess.dll
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Business\bin\Debug\net5.0\MertYazilim.Entities.dll
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Business\bin\Debug\net5.0\MertYazilim.DataAccess.pdb
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Business\bin\Debug\net5.0\MertYazilim.Entities.pdb
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Business\obj\Debug\net5.0\MertYazilim.Business.csprojAssemblyReference.cache
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Business\obj\Debug\net5.0\MertYazilim.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Business\obj\Debug\net5.0\MertYazilim.Business.AssemblyInfoInputs.cache
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Business\obj\Debug\net5.0\MertYazilim.Business.AssemblyInfo.cs
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Business\obj\Debug\net5.0\MertYazilim.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Business\obj\Debug\net5.0\MertYazilim.Business.csproj.CopyComplete
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Business\obj\Debug\net5.0\MertYazilim.Business.dll
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Business\obj\Debug\net5.0\ref\MertYazilim.Business.dll
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.Business\obj\Debug\net5.0\MertYazilim.Business.pdb

@@ -1,0 +1,43 @@
+﻿@model List<MertYazilim.Entities.Concrete.Supplier>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<a class="btn btn-info" asp-controller="Supplier" asp-action="Add">Add a Supplier</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Company Name</th>
+            <th>Contact Name</th>
+            <th>Contact Title</th>
+            <th>Phone</th>
+            <th>City</th>
+            <th>Country</th>
+            <th>Düzenle</th>
+            <th>Sil</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.CompanyName</td>
+                <td>@item.ContactName</td>
+                <td>@item.ContactTitle</td>
+                <td>@item.Address.Phone</td>
+                <td>@item.Address.City</td>
+                <td>@item.Address.Country</td>
+                <td>
+                    <a class="btn btn-warning" asp-action="Update" asp-controller="Supplier" asp-route-id="@item.Id">Düzenle</a>
+                </td>
+                <td>
+                    <a class="btn btn-danger" asp-action="Delete" asp-controller="Supplier" asp-route-id="@item.Id">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

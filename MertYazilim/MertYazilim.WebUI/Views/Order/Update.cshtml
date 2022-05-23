@@ -1,0 +1,51 @@
+﻿@model MertYazilim.Entities.Concrete.Order
+@{
+    ViewData["Title"] = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form class="w-75 mx-auto p-3 mt-4 shadow" asp-action="Add" method="post">
+    <div class="form-group">
+        <label style="color:black" l>Customer :</label>
+        <select asp-for="@Model.CustomerId" class="form-control" asp-items="ViewBag.Customer">
+            <option hidden value="-1">Seçiniz</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label style="color:black" l>Employee :</label>
+        <select asp-for="@Model.EmployeeId" class="form-control" asp-items="ViewBag.Employee">
+            <option hidden value="-1">Seçiniz</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label style="color:black" l>Order Date :</label>
+        <input asp-for="@Model.OrderDate" type="date" class="form-control style=" font-size: 110%"" />
+
+    </div>
+    <div class="form-group">
+        <label style="color:black">Required Date :</label>
+        <input asp-for="@Model.RequiredDate" type="date" class="form-control" style="font-size: 110%" />
+    </div>
+    <div class="form-group">
+        <label style="color:black">ShipVia :</label>
+        <input asp-for="@Model.ShipVia" type="date" class="form-control style=" font-size: 110%"" />
+    </div>
+    <div class="form-group">
+        <label style="color:black">Freight :</label>
+        <input asp-for="@Model.Freight" type="text" class="form-control style=" font-size: 110%"" />
+    </div>
+    <div class="form-group">
+        <label style="color:black">Ship Name :</label>
+        <input asp-for="@Model.ShipName" type="text" class="form-control style=" font-size: 110%"" />
+    </div>
+    <div class="form-group">
+        <label style="color:black">City :</label>
+        <input asp-for="@Model.ShipAddress.City" type="text" class="form-control style=" font-size: 110%"" />
+    </div>
+    <div class="form-group">
+        <label style="color:black">Country :</label>
+        <input asp-for="@Model.ShipAddress.Country" type="text" class="form-control style=" font-size: 110%"" />
+    </div>
+    <button type="submit" class="btn btn-info">Kaydet</button>
+</form>
+

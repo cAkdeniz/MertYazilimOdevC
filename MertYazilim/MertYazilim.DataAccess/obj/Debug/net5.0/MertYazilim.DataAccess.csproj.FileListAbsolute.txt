@@ -1,0 +1,15 @@
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.DataAccess\bin\Debug\net5.0\MertYazilim.DataAccess.deps.json
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.DataAccess\bin\Debug\net5.0\MertYazilim.DataAccess.dll
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.DataAccess\bin\Debug\net5.0\ref\MertYazilim.DataAccess.dll
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.DataAccess\bin\Debug\net5.0\MertYazilim.DataAccess.pdb
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.DataAccess\bin\Debug\net5.0\MertYazilim.Entities.dll
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.DataAccess\bin\Debug\net5.0\MertYazilim.Entities.pdb
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.DataAccess\obj\Debug\net5.0\MertYazilim.DataAccess.csprojAssemblyReference.cache
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.DataAccess\obj\Debug\net5.0\MertYazilim.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.DataAccess\obj\Debug\net5.0\MertYazilim.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.DataAccess\obj\Debug\net5.0\MertYazilim.DataAccess.AssemblyInfo.cs
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.DataAccess\obj\Debug\net5.0\MertYazilim.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.DataAccess\obj\Debug\net5.0\MertYazilim.DataAccess.csproj.CopyComplete
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.DataAccess\obj\Debug\net5.0\MertYazilim.DataAccess.dll
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.DataAccess\obj\Debug\net5.0\ref\MertYazilim.DataAccess.dll
+C:\Users\User\Documents\NetCoreProjects\MertYazilim\MertYazilim.DataAccess\obj\Debug\net5.0\MertYazilim.DataAccess.pdb

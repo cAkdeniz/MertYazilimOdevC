@@ -1,0 +1,17 @@
+﻿@model MertYazilim.Entities.Concrete.Shipper
+@{
+    ViewData["Title"] = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form class="w-75 mx-auto p-3 mt-4 shadow" asp-action="Update" method="post">
+    <div class="form-group">
+        <label style="color:black">Company Name :</label>
+        <input asp-for="@Model.CompanyName" type="text" class="form-control style=" font-size: 110%"" />
+    </div>
+    <div class="form-group">
+        <label style="color:black">Phone :</label>
+        <input asp-for="@Model.Phone" type="text" class="form-control" style="font-size: 110%" />
+    </div>
+    <button type="submit" class="btn btn-info">Kaydet</button>
+</form>

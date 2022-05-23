@@ -1,0 +1,55 @@
+﻿@model List<MertYazilim.Entities.Concrete.Order>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<a class="btn btn-info" asp-controller="Order" asp-action="Add">Add a Order</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Customer Id</th>
+            <th>Employee Id</th>
+            <th>Order Date</th>
+            <th>Required Date</th>
+            <th>Shipped Date</th>
+            <th>Ship Via</th>
+            <th>Freight</th>
+            <th>Ship Name</th>
+            <th>City</th>
+            <th>Country</th>
+            <th>Detay</th>
+            <th>Düzenle</th>
+            <th>Sil</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.CustomerId</td>
+            <td>@item.EmployeeId</td>
+            <td>@item.OrderDate</td>
+            <td>@item.RequiredDate</td>
+            <td>@item.ShippedDate</td>
+            <td>@item.ShipVia</td>
+            <td>@item.Freight</td>
+            <td>@item.ShipName</td>
+            <td>@item.ShipAddress.City</td>
+            <td>@item.ShipAddress.Country</td>
+            <td>
+                <a class="btn btn-success" asp-action="Detail" asp-controller="Order" asp-route-id="@item.Id">Detail</a>
+            </td>
+            <td>
+                <a class="btn btn-warning" asp-action="Update" asp-controller="Order" asp-route-id="@item.Id">Düzenle</a>
+            </td>
+            <td>
+                <a class="btn btn-danger" asp-action="Delete" asp-controller="Order" asp-route-id="@item.Id">Sil</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
